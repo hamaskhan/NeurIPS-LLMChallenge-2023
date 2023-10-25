@@ -1,3 +1,10 @@
+# NeurIPS-LLMChallenge-2023
+Submission files for the NeurIPS Large Language Model Efficiency Challenge 2023: 1 LLM + 1GPU + 1Day
+
+https://llm-efficiency-challenge.github.io/index
+
+
+
 # Llama-recipes Example
 This example demonstrates how to fine-tune and serve a Llama 2 model with llama-recipes for submission in the LLM efficiency challenge using the [lit-gpt](../lit-gpt/) example as a template.
 Llama-recipes provides an easy way to fine-tune a Llama 2 model with custom datasets using efficient techniques like LoRA or Llama-adapters.
